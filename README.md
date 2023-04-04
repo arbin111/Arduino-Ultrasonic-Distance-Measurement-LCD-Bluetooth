@@ -1,4 +1,5 @@
-The name of the project is: Ultrasonic Distance Sensor with Arduino and Bluetooth Communication
+The name of the project is: Ultrasonic Distance Sensor with Arduino and Bluetooth Communication.
+
 The source code can be found under the src folder.
 
 This project demonstrates how to use an ultrasonic distance sensor with an Arduino board and establish Bluetooth communication with a mobile device alongwith showing the output in a LCD display. In this case, we will write our code in VS Code.
